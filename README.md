@@ -9,6 +9,10 @@ pip install customtkinter
 pip install CTkMessagebox  
 pip install pymysql  
 pip install pillow  
+  
+install mysql in your system :-
+give username = root
+and password:- kanc
 
 New Features:-
 Splash Screan  
@@ -67,7 +71,13 @@ After successful Login you will redirect to main page.in main window we have man
 
 
 
-      
+6.When you click on Logout button a messagebox will open .if you click yes to messagebox then you will redirect to the login page .  
+    
+  
+![GitHub - Akascape_CTkMessagebox_ A fully customizable messagebox for customtkinter! (extension_add-on) - Google Chrome 18-06-2023 19_50_23](https://github.com/MrHK10/Library-Management-Software/assets/102664312/e55c2575-2119-4944-a25d-723fed16fbac)
+
+
+        
 for using this software your pc wants to install mysql client line server.  
 
 
